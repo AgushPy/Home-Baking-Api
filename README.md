@@ -5,3 +5,4 @@ Tecnologias utilizada
 
   -Spring Boot
   -Java JDK 15
+  -Maven
